@@ -127,8 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Desktop\주사위 게임.cpp" />
-    <ClCompile Include="..\..\..\Desktop\화씨온도를 섭씨온도로 바꾸기.cpp" />
+    <ClCompile Include="주사위 게임.cpp" />
+    <ClCompile Include="최대한도의 사탕사기.cpp" />
+    <ClCompile Include="화씨온도를 섭씨온도로 바꾸기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

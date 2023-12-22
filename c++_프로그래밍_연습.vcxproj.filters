@@ -13,13 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\ch01">
+      <UniqueIdentifier>{049534c2-77c1-46ac-b573-8039406284f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Desktop\주사위 게임.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="최대한도의 사탕사기.cpp">
+      <Filter>소스 파일\ch01</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Desktop\화씨온도를 섭씨온도로 바꾸기.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="화씨온도를 섭씨온도로 바꾸기.cpp">
+      <Filter>소스 파일\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="주사위 게임.cpp">
+      <Filter>소스 파일\ch01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
